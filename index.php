@@ -48,7 +48,7 @@
                     <input type="date" class="form-control rounded-0 shadow-sm" name="exitDate" id="exitDate">
                 </div>
 
-                <button type="submit" class="btn mx-auto d-block mt-5 rounded-0 shadow" name="submit" id="btnOne">Add Car</button>
+                <button type="submit" class="btn mx-auto d-block mt-5 rounded-0 shadow" name="submit" id="btnOne">Add Vehicle</button>
             </div>
         </form>
     </div>

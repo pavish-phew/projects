@@ -35,9 +35,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     // Add the car to the parking lot
     if (addCar($owner, $car, $licensePlate, $entryDate, $exitDate)) {
-        echo "Car added successfully";
+        echo "Vehicle added successfully";
     } else {
-        echo "Error adding car";
+        echo "Error adding vehicle";
     }
 }
 
